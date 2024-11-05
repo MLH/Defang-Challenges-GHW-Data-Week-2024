@@ -58,7 +58,7 @@ If you're looking for a new and efficient way to deploy your projects to the clo
 #### Documentation:
 * [Check out Defang's "defang compose up" documentation to complete this challenge](https://mlh.link/ghwcareer24-defang-composeup)!
 
-## Coding Challenge 5
+## Challenge 5
 ### <em>Advanced Challenge</em>: Enhance your application with advanced features for compute and/or storage. 
 #### Objectives: 
 * Defang supports using GPUs in your applications
