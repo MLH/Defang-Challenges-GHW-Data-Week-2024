@@ -1,4 +1,4 @@
-# Welcome to the Defang GHW: Career Week Challenge Page!
+# Welcome to the Defang GHW: Data Week Challenge Page!
 
 Hello hackers! Defang is the easiest way to develop, deploy, and debug cloud applications. <br><br>
 Defang takes you from Docker Compose to production-ready AWS deployments in minutes! <br><br> 
@@ -18,7 +18,7 @@ If you're looking for a new and efficient way to deploy your projects to the clo
 
 #### Objectives: 
 * Find out first hand how easy it is to deploy to Defang.
-* Deploy a Go/Node.js/Python sample with 1-click Deploy from the [Defang homepage](https://mlh.link/ghwcareer24-defang-samples).
+* Deploy a Go/Node.js/Python sample with 1-click Deploy from the [Defang homepage](https://mlh.link/ghwdata1224-defang-samples).
 * You'll need your GitHub credentials to complete this challenge!
 * Share a screenshot of your deployed application on our [submission form](https://mlh.link/ghwform)! 
 
@@ -26,13 +26,13 @@ If you're looking for a new and efficient way to deploy your projects to the clo
 ### Set up Defang CLI and Portal
 
 #### Objectives: 
-* Download and install the Defang CLI from the [Defang homepage](https://mlh.link/ghwcareer24-samples) and register with Defang with your GitHub credentials using the ["defang login" command](https://mlh.link/ghwcareer24-defang-login). 
-* [Login to the Defang Portal](https://mlh.link/ghwcareer24-defang-portal) using your same GitHub credentials.
+* Download and install the Defang CLI from the [Defang homepage](https://mlh.link/ghwdata1224-samples) and register with Defang with your GitHub credentials using the ["defang login" command](https://mlh.link/ghwdata1224-defang-login). 
+* [Login to the Defang Portal](https://mlh.link/ghwdata1224-defang-portal) using your same GitHub credentials.
 * The sample app you deployed in Challenge 1 should be visible here.
 * Share a screenshot on our [submission form](https://mlh.link/ghwform)! 
 
 #### Documentation: 
-* [Defang CLI Login Documentation](https://mlh.link/ghwcareer24-defang-login)
+* [Defang CLI Login Documentation](https://mlh.link/ghwdata1224-defang-login)
 
 ## Challenge 3 
 ### Create a simple app with "defang generate"
@@ -44,7 +44,7 @@ If you're looking for a new and efficient way to deploy your projects to the clo
 
 
 #### Documentation:
-* [Check out Defang's "Deploy an outline using AI" documentation for more details](https://mlh.link/ghwcareer24-defang-outline).
+* [Check out Defang's "Deploy an outline using AI" documentation for more details](https://mlh.link/ghwdata1224-defang-outline).
 
 ## Challenge 4 
 ### Deploy a simple app to Defang Playground with "defang compose up"
@@ -56,25 +56,25 @@ If you're looking for a new and efficient way to deploy your projects to the clo
 * Share your code on our [Devpost Page](https://mlh.link/ghwdevpost)! 
 
 #### Documentation:
-* [Check out Defang's "defang compose up" documentation to complete this challenge](https://mlh.link/ghwcareer24-defang-composeup)!
+* [Check out Defang's "defang compose up" documentation to complete this challenge](https://mlh.link/ghwdata1224-defang-composeup)!
 
 ## Challenge 5
 ### <em>Advanced Challenge</em>: Enhance your application with advanced features for compute and/or storage. 
 #### Objectives: 
 * Defang supports using GPUs in your applications
-  * [https://docs.defang.io/docs/concepts/resources](https://mlh.link/ghwcareer24-defang-resources) 
-  * [https://docs.defang.io/docs/tutorials/deploy-with-gpu#aws-account-with-gpu-access](https://mlh.link/ghwcareer24-defang-awsgpu)
+  * [https://docs.defang.io/docs/concepts/resources](https://mlh.link/ghwdata1224-defang-resources) 
+  * [https://docs.defang.io/docs/tutorials/deploy-with-gpu#aws-account-with-gpu-access](https://mlh.link/ghwdata1224-defang-awsgpu)
 * Defang also supports specifying persistent storage services in your application (e.g. Redis, PostgreSQL)
-  * [https://docs.defang.io/blog/june-2024-product-update#managed-redis](https://mlh.link/ghwcareer24-defang-redis)
+  * [https://docs.defang.io/blog/june-2024-product-update#managed-redis](https://mlh.link/ghwdata1224-defang-redis)
 * Use one or both of these features to take your application to the next level.
 * Share your code on our [Devpost Page](https://mlh.link/ghwdevpost)! 
 
 # Resources
-* [Defang Samples Page](https://mlh.link/ghwcareer24-defang-samples)
-* [Defang CLI Login](https://mlh.link/ghwcareer24-defang-login)
-* [Defang Portal Login](https://mlh.link/ghwcareer24-defang-portal)
-* [Defang Outline Deployment](https://mlh.link/ghwcareer24-defang-outline)
-* [Defang Compose Up](https://mlh.link/ghwcareer24-defang-composeup)
-* [Defang additional resources](https://mlh.link/ghwcareer24-defang-resources)
-* [AWS Account with GPU Access](https://mlh.link/ghwcareer24-defang-awsgpu )
-* [Managed Redis with Defang](https://mlh.link/ghwcareer24-defang-redis)
+* [Defang Samples Page](https://mlh.link/ghwdata1224-defang-samples)
+* [Defang CLI Login](https://mlh.link/ghwdata1224-defang-login)
+* [Defang Portal Login](https://mlh.link/ghwdata1224-defang-portal)
+* [Defang Outline Deployment](https://mlh.link/ghwdata1224-defang-outline)
+* [Defang Compose Up](https://mlh.link/ghwdata1224-defang-composeup)
+* [Defang additional resources](https://mlh.link/ghwdata1224-defang-resources)
+* [AWS Account with GPU Access](https://mlh.link/ghwdata1224-defang-awsgpu )
+* [Managed Redis with Defang](https://mlh.link/ghwdata1224-defang-redis)
